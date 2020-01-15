@@ -1,0 +1,21 @@
+img.help {
+    padding: 5px;
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+img.icon {
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+ }
+
+ul {
+    margin:0 0 10px 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
